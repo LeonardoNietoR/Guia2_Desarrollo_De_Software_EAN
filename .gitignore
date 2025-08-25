@@ -1,7 +1,10 @@
 
-# No subir
+
 **/build/
-**/dist/
+# Ignorar
+**/dist/*
+!**/dist/*.jar
+
 **/nbproject/private/
 **/.nb-gradle/
 **/out/
