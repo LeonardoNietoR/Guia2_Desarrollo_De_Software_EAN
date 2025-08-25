@@ -1,0 +1,7 @@
+
+# No subir
+**/build/
+**/dist/
+**/nbproject/private/
+**/.nb-gradle/
+**/out/
